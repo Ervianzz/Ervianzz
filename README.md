@@ -9,13 +9,13 @@
 <h3 align="center">🔗 Connect with me</h3>
 
 <p align="center">
-  <a href="https://instagram.com/ervianzz">
-    <img src="https://img.shields.io/badge/Instagram-ervianzz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/rfkyyal._">
+    <img src="https://img.shields.io/badge/Instagram-rfkyyal._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/Ervianzz">
     <img src="https://img.shields.io/badge/GitHub-Ervianzz-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:justkyy17@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -56,7 +56,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=canva&logoColor=00C4CC" />
 </p>
 
 <p align="center">
@@ -67,16 +66,9 @@
 
 <h3 align="center">Statistics</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ervianzz&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true" />
+</p>
 
 ---
 
