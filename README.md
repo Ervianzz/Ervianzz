@@ -14,10 +14,6 @@ I love creating designs and websites that are not only visually appealing, but a
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true)
-
 ## 🌐 Socials
 
 <a href="https://instagram.com/rfkyyal._">
