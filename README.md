@@ -14,13 +14,13 @@ Aku sedang belajar di bidang **web development** dan tertarik pada **frontend** 
 - Figma
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true&theme=tokyonight)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-@rfkyyal._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rfkyyal._)
 
 ## ✨ Fun Facts
-- Suka belajar sambil denger musik
+- Highest Rank Mlbb Imo 250+
 - Lagi mendalami frontend dan UI/UX
 - Suka eksplor desain yang clean dan user-friendly
 
