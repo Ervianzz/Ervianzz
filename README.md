@@ -12,19 +12,19 @@ I love creating designs and websites that are not only visually appealing, but a
 - JavaScript
 - Figma
 
+<div align="center">
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true" alt="GitHub Stats" />
 
 ## 🌐 Socials
 
-<p align="center">
-  <a href="https://instagram.com/rfkyyal._">
-    <img src="https://img.shields.io/badge/Instagram-@rfkyyal._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<a href="https://instagram.com/usernameigkamu">
+  <img src="https://img.shields.io/badge/Instagram-@usernameigkamu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
 
 ## ✨ Fun Facts
 - Highest Rank Mlbb Imo 250+
