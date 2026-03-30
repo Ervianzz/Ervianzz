@@ -16,12 +16,14 @@ I love creating designs and websites that are not only visually appealing, but a
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ervianzz&amp;show_icons=true" alt="GitHub Stats" />
+</p>
 
 ## 🌐 Socials
 
-<a href="https://instagram.com/usernameigkamu">
-  <img src="https://img.shields.io/badge/Instagram-@usernameigkamu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<a href="https://instagram.com/rfkyyal._">
+  <img src="https://img.shields.io/badge/Instagram-@rfkyyal._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 </div>
