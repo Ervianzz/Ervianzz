@@ -2,22 +2,29 @@
 <h3 align="center">Learner in Web Development & UI/UX</h3>
 
 ## 🙋 Introduction
-Halo! Aku **Ervian Rifky**.  
-Aku sedang belajar di bidang **web development** dan tertarik pada **frontend** serta **UI/UX design**.
+Hi, I'm **Ervian Rifky** 👋  
+A passionate learner in **web development** with a growing interest in **frontend** and **UI/UX design**.  
+I love creating designs and websites that are not only visually appealing, but also easy and enjoyable to use.
 
 ## 💻 Skills & Tech Stack
 - HTML
 - CSS
 - JavaScript
-- Git
-- GitHub
 - Figma
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Ervianzz&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-@rfkyyal._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rfkyyal._)
+
+<p align="center">
+  <a href="https://instagram.com/rfkyyal._">
+    <img src="https://img.shields.io/badge/Instagram-@rfkyyal._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 ## ✨ Fun Facts
 - Highest Rank Mlbb Imo 250+
