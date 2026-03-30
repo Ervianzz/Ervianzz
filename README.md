@@ -45,7 +45,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
@@ -60,14 +59,6 @@
 
 <p align="center">
   Interested in team collaboration, interface design, and building responsive web pages.
-</p>
-
----
-
-<h3 align="center">Statistics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true" />
 </p>
 
 ---
