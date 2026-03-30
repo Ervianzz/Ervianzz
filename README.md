@@ -14,6 +14,12 @@ I love creating designs and websites that are not only visually appealing, but a
 
 <div align="center">
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ervianzz&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 ## 🌐 Socials
 
 <a href="https://instagram.com/rfkyyal._">
