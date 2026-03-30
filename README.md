@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-Ervianzz-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:justkyy17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-justkyy17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
