@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ervianzz</h1>
+<h3 align="center">Learner in Web Development & UI/UX</h3>
 
-<!--
-**Ervianzz/Ervianzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋 Introduction
+Halo! Aku **Ervian Rifky**.  
+Aku sedang belajar di bidang **web development** dan tertarik pada **frontend** serta **UI/UX design**.
 
-Here are some ideas to get you started:
+## 💻 Skills & Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+- Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight)
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-@rfkyyal._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rfkyyal._)
+
+## ✨ Fun Facts
+- Suka belajar sambil denger musik
+- Lagi mendalami frontend dan UI/UX
+- Suka eksplor desain yang clean dan user-friendly
+
+## 📌 Quote
+> "Small progress is still progress."
