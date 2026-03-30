@@ -14,7 +14,7 @@ Aku sedang belajar di bidang **web development** dan tertarik pada **frontend** 
 - Figma
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ervianzz&theme=tokyonight)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-@rfkyyal._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rfkyyal._)
