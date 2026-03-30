@@ -16,9 +16,7 @@ I love creating designs and websites that are not only visually appealing, but a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ervianzz&amp;show_icons=true" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ervianzz&show_icons=true)
 
 ## 🌐 Socials
 
